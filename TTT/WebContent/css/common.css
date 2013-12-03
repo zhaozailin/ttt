@@ -1,0 +1,21 @@
+.ud_image {
+	border: 1px solid #CCCCCC;
+    border-radius: 50% !important;
+    float: left;
+    height: 60px;
+    margin-right: 15px;
+    padding: 2px;
+    width: 60px;
+}
+.ud_image_content {
+	color:#72C02C;
+	font-size: 15px;
+}
+.ud_image_content em{
+	color:#777777;
+	display: block;
+}
+.ud_image_content span{
+	color:#E67E22;
+	font-size: 12px;
+}
